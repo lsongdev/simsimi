@@ -1,0 +1,27 @@
+{
+  "name": "simsimi",
+  "version": "3.0.0",
+  "description": "Simsimi API in Node.js",
+  "main": "simsimi.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/song940/simsimi.git"
+  },
+  "keywords": [
+    "simsimi",
+    "chatbot"
+  ],
+  "author": {
+    "name": "Lsong",
+    "email": "hi@lsong.org",
+    "url": "https://lsong.org"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/simsimi/issues"
+  },
+  "homepage": "https://github.com/song940/simsimi/tree/next"
+}
